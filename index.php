@@ -22,7 +22,7 @@
             </td>
 </tr>
 
-<td width="91%" height="387" valign="top" bgcolor="#FFFFFF"><h2> <center>DBMS MINI-PROJECT<center/></h2>
+<td width="91%" height="387" valign="top" bgcolor="#FFFFFF"><h2> <center>PRISON SERVICES<center/></h2>
   <p><B>A simple prison management system,which provides login for two different personnel: Administrator & Police.
   The Administrator has the privileges of adding a prisoner,adding an officer,tranfer a prisoner,tranfer an officer,add court details of a prisoner and deleting the records.
   The Police has the authority to only view the records related to a prisoner.</B></p>
