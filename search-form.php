@@ -21,7 +21,7 @@
             <td width="40%" align="center" bgcolor="#FFFFFF">
        
 
-<td align="left" bgcolor="#FFFFFF"><h1> Seacrh By ID</h1>
+<td align="left" bgcolor="#FFFFFF"><h1> Search By ID</h1>
 <form action="search.php" method="get">
            <label>ID:
          <input type="text" name="keyname" />
